@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="docment-font:war">
+    <output-path>$PROJECT_DIR$/docment-font/target</output-path>
+    <root id="archive" name="docment-font.war">
+      <element id="artifact" artifact-name="docment-font:war exploded" />
+    </root>
+  </artifact>
+</component>
